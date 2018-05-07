@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1525708496 source:/home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao01/main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	"MesaDeRestaurante.h"
+	"Pedido.h"
+	"RestauranteCaseiro.h"
+
+1525707686 source:/home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao01/src/MesaDeRestaurante.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Pedido.h"
+	"MesaDeRestaurante.h"
+	<string>
+	<stdio.h>
+
+1525708536 /home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao01/include/MesaDeRestaurante.h
+	"Pedido.h"
+	<string.h>
+
+1525707725 source:/home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao01/src/Pedido.cpp
+	"Pedido.h"
+	<stdio.h>
+
+1525708536 /home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao01/include/Pedido.h
+	<string>
+
+1525708496 source:/home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao01/src/RestauranteCaseiro.cpp
+	"MesaDeRestaurante.h"
+	"Pedido.h"
+	<string>
+	"RestauranteCaseiro.h"
+
+1525708536 /home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao01/include/RestauranteCaseiro.h
+	"MesaDeRestaurante.h"
+	"Pedido.h"
+	<string>
+
