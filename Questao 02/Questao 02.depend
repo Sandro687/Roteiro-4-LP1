@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1525884278 source:/home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao 02/FiguraGeom.cpp
+	"FiguraGeom.h"
+
+1525884278 /home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao 02/FiguraGeom.h
+	<string>
+
+1525884278 source:/home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao 02/Quadrado.cpp
+	"Quadrado.h"
+	<cmath>
+
+1525884278 /home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao 02/Quadrado.h
+	"FiguraGeom.h"
+
+1525884278 source:/home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao 02/Retangulo.cpp
+	"Retangulo.h"
+
+1525884278 /home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao 02/Retangulo.h
+	"FiguraGeom.h"
+
+1525884278 source:/home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao 02/Triangulo.cpp
+	"Triangulo.h"
+	<cmath>
+
+1525884278 /home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao 02/Triangulo.h
+	"FiguraGeom.h"
+
