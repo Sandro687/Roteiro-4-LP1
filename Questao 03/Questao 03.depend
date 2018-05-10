@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1525919102 source:/home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao 03/Consultor.cpp
+	"Consultor.h"
+	<iostream>
+	<string>
+
+1525919102 /home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao 03/Consultor.h
+	"Funcionario.h"
+
+1525919102 /home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao 03/Funcionario.h
+	<string>
+
+1525919102 source:/home/sandro/Documents/LP1/Roteiros/Roteiro 4/Questao 03/Funcionario.cpp
+	"Funcionario.h"
+
